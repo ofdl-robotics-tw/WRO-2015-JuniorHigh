@@ -1,5 +1,5 @@
 # WRO 2015 Junior High
-![](https://i1.ytimg.com/vi/ZwJmcsVAmHg/maxresdefault.jpg)
+![](https://raw.githubusercontent.com/ofdl-robotics-tw/WRO-2015-JuniorHigh/main/WRO_2015_JR_1.JPG)
 Video: [YouTube](https://www.youtube.com/watch?v=ZwJmcsVAmHg)
 
 - WRO 2015 Junior High, program and robot made by OFDL Taiwan.
